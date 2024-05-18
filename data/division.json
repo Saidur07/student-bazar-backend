@@ -1,0 +1,30 @@
+[
+  {
+    "division_id": "1",
+    "name": "Barisal"
+  },
+  {
+    "division_id": "2",
+    "name": "Chittagong"
+  },
+  {
+    "division_id": "3",
+    "name": "Dhaka"
+  },
+  {
+    "division_id": "4",
+    "name": "Khulna"
+  },
+  {
+    "division_id": "5",
+    "name": "Rajshahi"
+  },
+  {
+    "division_id": "6",
+    "name": "Rangpur"
+  },
+  {
+    "division_id": "7",
+    "name": "Sylhet"
+  }
+]

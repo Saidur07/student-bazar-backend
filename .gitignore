@@ -1,0 +1,8 @@
+node_modules
+.env
+.env.*
+.idea
+package-lock.json
+yarn.lock
+service_account_key.json
+migration.js

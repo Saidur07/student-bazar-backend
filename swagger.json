@@ -1,0 +1,21 @@
+{
+    "swagger": "2.0",
+    "swaggerDefinition": {
+        "info": {
+            "title": "Student bazar",
+            "description": "Student bazar backend",
+            "contact": {
+                "name": "Ashraf"
+            },
+            "servers": [
+                "http://localhost:8000"
+            ]
+        }
+    },
+    "apis": [
+        "*.js",
+        "app/v1/routes/public/*.js",
+        "app/v1/routes/private/*.js",
+        "app/v1/routes/admin/*.js"
+    ]
+}
